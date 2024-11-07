@@ -1,6 +1,20 @@
 Simple brute force to learn
 
+ *functions* 
+1)generating keys
+
+ *supports*
+   file
+1).pfx 
+
+
+   web
+1)
+
+
   *How to use?*
 1) Change the path to the .pfx file. #main.cpp
 2) Start build.bat
 3) Start exe file
+
+//I think that I will soon add a database for selecting passwords on sites and other files - programs.
